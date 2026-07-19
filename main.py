@@ -8,7 +8,7 @@ load_dotenv()
 
 def main():
     print("Hello from course-langchain!")
-    llm=ChatOpenAI(model_name="gpt-3.5-turbo")
+    #llm=ChatOpenAI(model_name="gpt-3.5-turbo")
     information ="""
     Elon Reeve Musk (/ˈiːlɒn/ ⓘ EE-lon; born June 28, 1971) is a businessman and former public official who is the CEO and largest shareholder of Tesla and SpaceX. Musk has been the wealthiest person in the world since 2025, and became the only trillionaire in terms of US dollars in June 2026; as of July 10, 2026, Forbes estimates his net worth to be US$917 billion.
     """
